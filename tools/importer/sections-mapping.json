@@ -12,9 +12,9 @@
           "blocks": [
             {
               "id": "box-id--1635432265",
-              "x": -10,
+              "x": 712,
               "y": 90,
-              "width": 1273,
+              "width": 1460,
               "height": 90,
               "xpath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/header[1]/div[2]",
               "layout": {
@@ -31,7 +31,7 @@
                   "xpathWithDetails": "id(\"masthead\")/div[@class=\"g-row nav-brand\"]/nav[@class=\"nav-main print-hidden prn\"]"
                 }
               ],
-              "color": "rgba(148, 0, 211, 0.3)",
+              "color": "rgba(75, 0, 130, 0.2)",
               "mapping": "header",
               "customBlockName": ""
             }
